@@ -3,13 +3,13 @@ Criação de uma tabela de hashes utilizando uma lista de senhas para posterior 
 
 ## Modo de uso
 ```
-wget https://raw.githubusercontent.com/thiagosmith/rainbow-table/refs/heads/main/gera-tabela.sh
+wget https://raw.githubusercontent.com/smithbraz/rainbow-table/refs/heads/main/gera-tabela.sh
 ```
 ```
-wget https://raw.githubusercontent.com/thiagosmith/rainbow-table/refs/heads/main/busca-hash.sh
+wget https://raw.githubusercontent.com/smithbraz/rainbow-table/refs/heads/main/busca-hash.sh
 ```
 ```
-wget https://raw.githubusercontent.com/thiagosmith/rainbow-table/refs/heads/main/senhas.txt
+wget https://raw.githubusercontent.com/smithbraz/rainbow-table/refs/heads/main/senhas.txt
 ```
 ```
 ls
